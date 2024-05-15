@@ -15,7 +15,14 @@ Snapshot 2
 ![Screen Shot 2024-05-15 at 1 40 11 PM](https://github.com/floydian86/dbt-with-snowflake/assets/161500978/c2e96808-4fa0-45e8-b3bb-8ef692f78066)
 
 
+### Resources:
 
 Here is a step-by-step guide on how to build data pipeline in dbt and consume the models in snowflake to build dashboard.
 https://quickstarts.snowflake.com/guide/accelerating_data_teams_with_snowflake_and_dbt_cloud_hands_on_lab/
+
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 
