@@ -12,7 +12,8 @@ Snapshot 1
 ![Screen Shot 2024-05-15 at 12 25 13 PM](https://github.com/floydian86/dbt-with-snowflake/assets/161500978/ae0b5950-3938-43b1-a1e2-dab634488d49)
 
 Snapshot 2
-![Screen Shot 2024-05-15 at 1 40 11 PM](https://github.com/floydian86/dbt-with-snowflake/assets/161500978/e2543e27-9521-4c45-85cf-8a81be6e25ca)
+![Screen Shot 2024-05-15 at 1 40 11 PM](https://github.com/floydian86/dbt-with-snowflake/assets/161500978/c2e96808-4fa0-45e8-b3bb-8ef692f78066)
+
 
 
 Here is a step-by-step guide on how to build data pipeline in dbt and consume the models in snowflake to build dashboard.
